@@ -151,13 +151,9 @@ starpusher
 
 # 📸 Screenshots
 
-*(Add gameplay screenshots here)*
-
-Example:
-
-* Title Screen
-* Puzzle Gameplay
-* Solved Level Screen
+![Title Screen](screenshots\0.png)
+![Puzzle Gameplay](screenshots\1.png)
+![Solved Level Screen](screenshots\2.png)
 
 ---
 
