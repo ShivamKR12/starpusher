@@ -58,8 +58,8 @@ But be careful — stars can only be pushed **one at a time**, and pushing them 
 
 ## Option 1 — Download Executable (Recommended)
 
-1. Go to the [**Releases page**]
-   (https://github.com/ShivamKR12/starpusher/releases)
+1. Go to the **Releases page** :
+   https://github.com/ShivamKR12/starpusher/releases
 
 2. Download:
 
@@ -209,11 +209,11 @@ Inspired by the classic puzzle genre **Sokoban**.
 
 If you encounter issues:
 
-* Open a [GitHub issue]
-  (https://github.com/ShivamKR12/starpusher/issues)
+* Open a GitHub issue :
+  https://github.com/ShivamKR12/starpusher/issues
 
-* Check the [CI build status]
-  (https://github.com/ShivamKR12/starpusher/actions)
+* Check the CI build status :
+  https://github.com/ShivamKR12/starpusher/actions
 
 ---
 
