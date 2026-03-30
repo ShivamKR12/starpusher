@@ -27,15 +27,15 @@ jobs:
 
       - name: Build executable with PyInstaller
         run: |
-          pyinstaller --clean --noconfirm startpusher.spec
+          pyinstaller --clean --noconfirm starpusher.spec
 
       - name: Zip executable
         run: |
-          Compress-Archive -Path dist\startpusher.exe -DestinationPath dist\startpusher.zip -Force
+          Compress-Archive -Path dist\starpusher.exe -DestinationPath dist\starpusher.zip -Force
 
       - name: Create Release
         uses: softprops/action-gh-release@v2
         with:
           tag_name: v1.0.${{ github.run_number }}
           name: Star Pusher v1.0.${{ github.run_number }}
-          files: dist/startpusher.zip
+          files: dist/starpusher.zip
